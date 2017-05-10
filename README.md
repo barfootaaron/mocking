@@ -1,6 +1,10 @@
 # Mocking
 Collection of simple examples of Mocking with Python 3
 
+### Running Tests
+
+`python -m unittest test`
+
 
 ### Resources
 
